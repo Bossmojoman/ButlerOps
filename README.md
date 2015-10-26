@@ -3,13 +3,14 @@ ButlerOps
 
 [![Build Status](https://travis-ci.org/jasperproject/jasper-client.svg?branch=master)](https://travis-ci.org/jasperproject/jasper-client) [![Coverage Status](https://img.shields.io/coveralls/jasperproject/jasper-client.svg)](https://coveralls.io/r/jasperproject/jasper-client) [![Codacy Badge](https://www.codacy.com/project/badge/3a50e1bc2261419894d76b7e2c1ac694)](https://www.codacy.com/app/jasperproject/jasper-client)
 
-Client scripts and modifications built ontop of the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications.
+Client scripts and modifications built on top of the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications.
 
 Learn more about Jasper at [jasperproject.github.io](http://jasperproject.github.io/)
 
 
 
 ## Contact
+Glen Colby is the Core developer of ButlerOps (http://www.thud.io/) and can be reached at [gcolby@gmail.com](mailto:gcolby@gmail.com)
 
 Jasper's core developers are [Shubhro Saha](http://www.princeton.edu/~saha/), [Charles Marsh](http://www.princeton.edu/~crmarsh/) and [Jan Holthuis](http://homepage.ruhr-uni-bochum.de/Jan.Holthuis/).  All of them can be reached by email at [saha@princeton.edu](mailto:saha@princeton.edu), [crmarsh@princeton.edu](mailto:crmarsh@princeton.edu) and [jan.holthuis@ruhr-uni-bochum.de](mailto:jan.holthuis@ruhr-uni-bochum.de) respectively. However, for technical support and other problems, please go through the channels mentioned above.
 
