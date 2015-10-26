@@ -25,6 +25,8 @@ class Conversation(object):
             notifications = self.notifier.getAllNotifications()
             for notif in notifications:
                 self._logger.info("Received notification: '%s'", str(notif))
+                notifStr = str(notif)
+                self.mic.say(notifStr)
 
             self._logger.debug("Started listening for keyword '%s'",
                                self.persona)
