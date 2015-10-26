@@ -10,10 +10,11 @@ Learn more about Jasper at [jasperproject.github.io](http://jasperproject.github
 
 
 ## Contact
-Glen Colby is the Core developer of ButlerOps (http://www.thud.io/) and can be reached at [gcolby@gmail.com](mailto:gcolby@gmail.com)
+Glen Colby is the core developer of ButlerOps (http://www.thud.io/) and can be reached at [gcolby@gmail.com](mailto:gcolby@gmail.com)
 
-Jasper's core developers are [Shubhro Saha](http://www.princeton.edu/~saha/), [Charles Marsh](http://www.princeton.edu/~crmarsh/) and [Jan Holthuis](http://homepage.ruhr-uni-bochum.de/Jan.Holthuis/).  All of them can be reached by email at [saha@princeton.edu](mailto:saha@princeton.edu), [crmarsh@princeton.edu](mailto:crmarsh@princeton.edu) and [jan.holthuis@ruhr-uni-bochum.de](mailto:jan.holthuis@ruhr-uni-bochum.de) respectively. However, for technical support and other problems, please go through the channels mentioned above.
+Jasper's developers are in no way associated with ButlerOps.  For ButlerOps specific questions, please contact Glen Colby directly.
 
+Jasper's core developers are [Shubhro Saha](http://www.princeton.edu/~saha/), [Charles Marsh](http://www.princeton.edu/~crmarsh/) and [Jan Holthuis](http://homepage.ruhr-uni-bochum.de/Jan.Holthuis/).  
 
 ## License
 ButlerOps License
