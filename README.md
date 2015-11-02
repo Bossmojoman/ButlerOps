@@ -5,6 +5,9 @@ ButlerOps
 
 Client scripts and modifications built on top of the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications.
 
+## PLEASE NOTE
+This is in really rough shape currently as it was built as a quick POC for a blog post.  I'll be updating and refactoring it soon.
+
 Learn more about Jasper at [jasperproject.github.io](http://jasperproject.github.io/)
 
 
